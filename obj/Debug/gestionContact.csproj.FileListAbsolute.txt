@@ -1,0 +1,10 @@
+C:\Users\Merven\source\repos\gestionContact\gestionContact\bin\Debug\gestionContact.exe.config
+C:\Users\Merven\source\repos\gestionContact\gestionContact\bin\Debug\gestionContact.exe
+C:\Users\Merven\source\repos\gestionContact\gestionContact\bin\Debug\gestionContact.pdb
+C:\Users\Merven\source\repos\gestionContact\gestionContact\obj\Debug\gestionContact.csprojAssemblyReference.cache
+C:\Users\Merven\source\repos\gestionContact\gestionContact\obj\Debug\gestionContact.gestionContact.resources
+C:\Users\Merven\source\repos\gestionContact\gestionContact\obj\Debug\gestionContact.Properties.Resources.resources
+C:\Users\Merven\source\repos\gestionContact\gestionContact\obj\Debug\gestionContact.csproj.GenerateResource.cache
+C:\Users\Merven\source\repos\gestionContact\gestionContact\obj\Debug\gestionContact.csproj.CoreCompileInputs.cache
+C:\Users\Merven\source\repos\gestionContact\gestionContact\obj\Debug\gestionContact.exe
+C:\Users\Merven\source\repos\gestionContact\gestionContact\obj\Debug\gestionContact.pdb
